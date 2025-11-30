@@ -1,4 +1,4 @@
-# Synopsys VLSI Flow — RTL to GDSII (Hands-on Learning)
+# 🧠Synopsys VLSI Flow — RTL to GDSII (Hands-on Learning)
 
 Overview
 
@@ -26,8 +26,14 @@ Quick start
    - export SYNOPSYS_HOME=/path/to/synopsys
    - source $SYNOPSYS_HOME/setup.sh
    - Ensure PATH and LM_LICENSE_FILE (or other license variables) are set correctly
+3. 🧩 Tools Covered
+   <img width="1330" height="459" alt="image" src="https://github.com/user-attachments/assets/d042bbd9-e49a-493b-9acf-e64ec768efa8" />
+4. 🚀 Learning Flow
+   <img width="1146" height="448" alt="image" src="https://github.com/user-attachments/assets/56ab10bc-e86e-49cf-9510-2d04f21215db" />
+5. ⚙️ Topics Documented
+    <img width="1017" height="642" alt="image" src="https://github.com/user-attachments/assets/dd84dc09-ca03-4221-90a8-2982e314514b" />
 
-3. Example run
+6. Example run
    - Synthesis:
      cd synth
      ./run_synth.sh <design>
