@@ -51,10 +51,4 @@ Contributions are welcome. Please open issues for problems or suggestions and su
 - The platform/OS
 - A brief description of the change and why it helps reproducibility
 
-License
-
-This repository does not include a license file yet. If you want to add one, common choices are MIT or Apache-2.0. Add LICENSE at the repo root and update the README accordingly.
-
-Contact
-
 Maintainer: SandeepSingh8769
